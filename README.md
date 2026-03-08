@@ -1,8 +1,10 @@
-# 🙏 DarshanEase — Temple Darshan Ticket Booking App
+ DarshanEase — Temple Darshan Ticket Booking App
 
 A full-stack **MERN** web application for seamless temple darshan ticket booking.
 
 ---
+🎥 Project Demo Video
+Watch Demo Video: https://drive.google.com/file/d/1RYSHJO4OTMemd4TrS4OZthPBOFYXM_Rx/view?usp=drive_link
 
 ## 🏗️ Tech Stack
 
